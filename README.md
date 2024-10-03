@@ -16,8 +16,8 @@ This is a Node.js-based Telegram bot that allows users to generate AI images bas
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/shutterai-bot.git
-   cd shutterai-bot
+   git clone https://github.com/Ajibode-Daniel/Telegram-AI-Image_Generator.git
+   cd Telegram-AI-Image_Generator
    ```
 
 2. **Install Dependencies**
